@@ -15,6 +15,11 @@
             --space-unit: clamp(8px, 2vw, 20px);
         }
 
+.position{
+            position: relative;
+            left: 60px;
+        }
+
         html {
             scroll-behavior: smooth;
             font-size: clamp(14px, 2.5vw, 18px);
