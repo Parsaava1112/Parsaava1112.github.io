@@ -1,2 +1,2 @@
 لینک ورود به وبلاگ پارسا ابراهیمی:
-Parsaava1112.github.io
+https://parsaava1112.github.io/
