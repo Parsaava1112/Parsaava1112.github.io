@@ -814,6 +814,20 @@
             color: azure;
         }
 
+        img{
+            width: 150px;
+            height: 150px;
+            position: relative;
+            left: 0;
+            top: 0;
+            border: solid 1px #111;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            -ms-border-radius: 50%;
+            -o-border-radius: 50%;
+}
+
         /* ===== MEDIA QUERIES FOR VERY SMALL SCREENS ===== */
         @media (max-width: 480px) {
             .nav-center {
